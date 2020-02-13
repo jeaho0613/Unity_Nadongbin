@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1025391516049",
+    "firebase_url": "https://redhead-da3fb.firebaseio.com",
+    "project_id": "redhead-da3fb",
+    "storage_bucket": "redhead-da3fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025391516049:android:e9b53becbab81dfc",
+        "android_client_info": {
+          "package_name": "com.redhead.unitygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025391516049-f9m28jtjbel1gevgatg8d9po1ov4k2ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGyU8mo1nRR1lX4jNfsDh-pArTlVqSJ_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025391516049-f9m28jtjbel1gevgatg8d9po1ov4k2ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

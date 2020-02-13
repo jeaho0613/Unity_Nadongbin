@@ -1,0 +1,14 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public static class PlayerInformation
+{
+    public static int maxCombo { get; set; }
+    public static float score { get; set; }
+    public static string seletedMusic { get; set; }
+    public static string musicTitle { get; set; }
+    public static string musicArtist { get; set; }
+    public static Firebase.Auth.FirebaseAuth auth;
+
+}
